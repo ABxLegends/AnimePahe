@@ -119,7 +119,7 @@ remove_admin - Remove admin
 
 ```bash
 git clone https://github.com/MirageBots/AnimePahe/
-cd auto-anime-pahe
+cd AnimePahe
 ```
 
 ### 2. INSTALL
@@ -200,8 +200,8 @@ MONGODB
 ## ▣ CREDITS
 
 ```
-MAIN DEV   : @BLAKITE_RAVII
-WORKER     : @BLAKITE_RAVII
+MAIN DEV   : @Blakite_Ravii
+WORKER     : @Blakite_Ravii
 UI / FIXES : @KamiKaito
 EXTRA      : @Unseen_books
 ```
