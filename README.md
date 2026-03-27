@@ -1,8 +1,8 @@
-# ╔══════════════════════════════════════════╗
+# ╔══════════════════════════════════════╗
 
-# ║      AUTO ANIME PAHE — ADVANCED BOT      ║
+# ║    AUTO ANIME PAHE — ADVANCED BOT    ║
 
-# ╚══════════════════════════════════════════╝
+# ╚══════════════════════════════════════╝
 
 <p align="center">
   <b>FAST • SCALABLE • AUTOMATED • CLOUD READY</b>
@@ -118,7 +118,7 @@ remove_admin - Remove admin
 ### 1. CLONE
 
 ```bash
-git clone https://github.com/your-repo/auto-anime-pahe.git
+git clone https://github.com/MirageBots/AnimePahe/
 cd auto-anime-pahe
 ```
 
