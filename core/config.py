@@ -143,7 +143,7 @@ JSON_DATA_FILE = BASE_DIR / "anime_data.json"
 FFMPEG_PATH = "ffmpeg"
 
 HEADERS = {
-    'authority': 'animepahe.si',
+    'authority': 'animepahe.pw',
     'accept': 'application/json, text/javascript, */*; q=0.01',
     'accept-language': 'en-US,en;q=0.9',
     'cookie': '__ddg2_=;',
@@ -155,7 +155,7 @@ HEADERS = {
     'sec-fetch-mode': 'cors',
     'sec-fetch-site': 'same-origin',
     'x-requested-with': 'XMLHttpRequest',
-    'referer': 'https://animepahe.si/',
+    'referer': 'https://animepahe.pw/',
     'user-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36',
 }
 
